@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC1981
+D Single Micropower High Side Switch Driver
+K Switch Driver LTC1981
+$ENDCMP
+#
+#End Doc Library
