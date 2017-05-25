@@ -1,0 +1,11 @@
+Reference;Value;Footprint;Count;Datasheet;FootprintLib
+CONN1;RIACON-2;con-riacon-RIACON-2;1;;riacon2_dixed
+Q1,Q2,Q3,Q4;STB16NF06LT4;TO-263-3Lead;4;;TO_SOT_Packages_SMD
+U2,U3,U4,U5;LTC1981;SOT-23-5_HandSoldering;4;;TO_SOT_Packages_SMD
+C4,C2,C3,C5;10uF;CP_Elec_5x5.8;4;;Capacitors_SMD
+R19,R17,R18,R20;1k;R_0805;4;;Resistors_SMD
+P2;CONN_01X14;Pin_Header_Straight_1x14_Pitch2.54mm;1;;Pin_Headers
+P4;CONN_01X13;Pin_Header_Straight_1x13_Pitch2.54mm;1;;Pin_Headers
+P3;CONN_01X06;TerminalBlock_Pheonix_PT-3.5mm_6pol;1;;Terminal_Blocks
+R2,R4,R6,R8;10k;R_0805;4;;Resistors_SMD
+R1,R3,R5,R7;0R;R_0805;4;;Resistors_SMD
