@@ -1,9 +1,9 @@
 # JN5168DriverBoard
 Companion to JN5168 Carrier Board. Provides four nMOS FETs with FET drivers for boosting control voltage.
 
-To be used for connecting LED strips or plain voltage driven LEDs. The chosen MOSFETs are rated up to 16A and give plenty of headroom. While being logic level FETs, space for FET driver ICs is provided. So one may choose another FET (non-logic-level) in conjunction with the driver ICs. Or omit the driver ICs and go for the logic level FET.
+To be used for connecting LED strips or plain voltage driven LEDs. The chosen MOSFETs are rated up to 16A and give plenty of headroom (that is just another way of saying "...and are pretty much of an overkill"). While being logic level FETs, space for FET driver ICs is provided. So one may choose another FET (non-logic-level) in conjunction with the driver ICs. Or omit the driver ICs and go for the logic level FET. If you go towards the maximum rating of the FETs you might consider mounting the entire board on something suitable for heat dissipation. Normal operation at 20W per channel is not not much of a problem.
 
-# Board Pictures
+# Board Pictures (Prototypes)
 
 ![Raw Board](DSC_0892+(2017-05-21T09_55_33.000).JPG)
 
