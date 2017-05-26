@@ -11,6 +11,12 @@ To be used for connecting LED strips or plain voltage driven LEDs. The chosen MO
 
 Prototype boards shown here made by www.aisler.net (not affiliated in any way).
 
+# Load Testing 
+
+Load testing was performed using 10W resistors:
+
+![Load testing setup with 10W Dale resistors](14958200711161.jpg)
+
 # See also:
 
 http://www.boriswerner.eu/tinkering-tuesday-hueify-pwm-to-rgb-led-strip-driver-board
